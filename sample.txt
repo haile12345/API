@@ -1,0 +1,9 @@
+home
+admin
+grade
+uploads
+upload
+photos
+user
+users
+superuser
