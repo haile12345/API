@@ -1,12 +1,12 @@
 # API
-# let make python fuzzer today !!
+### let make python fuzzer today !!
 
 What i will do is just do some directory brutforce with Python !! 
 
-'''shell
+'''bash
   python -m pip install requests
 '''
-'''shell
+'''bash
     python dir_brutforce.py -f sample.txt -u http://localhost/fuzz
 '''
 so create whatever wordlist and play with code
